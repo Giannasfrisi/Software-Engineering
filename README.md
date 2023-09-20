@@ -1,2 +1,2 @@
-# cs411
+# Software Engineering
 Repository dedicated to Software Engineering
